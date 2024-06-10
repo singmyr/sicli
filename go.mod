@@ -1,4 +1,4 @@
-module github.com/singmyr/morpheus
+module github.com/singmyr/sicli
 
 go 1.22.1
 
